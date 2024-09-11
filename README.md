@@ -1,16 +1,15 @@
-## Hi there 👋
+<a href="https://github.com/isaozler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isaozler&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/isaozler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaozler&cache_seconds=1800&layout=compact" />
+</a>
 
-<!--
-**isaozler/isaozler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Kode Mono](https://github-readme-stats.vercel.app/api/pin/?username=isaozler&repo=kode-mono)](https://github.com/isaozler/kode-mono)
+[![Grafana Shift Selector](https://github-readme-stats.vercel.app/api/pin/?username=isaozler&repo=grafana-shift-selector)](https://github.com/isaozler/grafana-shift-selector)
 
-Here are some ideas to get you started:
+<!-- 
+[![Stats](https://github-readme-stats.vercel.app/api?username=isaozler&show_icons=true&count_private=true)](https://github.com/isaozler)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaozler&cache_seconds=1&layout=compactt)](https://github.com/isaozler)
 -->
